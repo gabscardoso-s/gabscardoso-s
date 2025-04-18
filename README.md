@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gabriel-carduus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.c.souza91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-carduus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.c.souza91@gmail.com)
 
 # 💻 Tech Stack:
 
