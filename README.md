@@ -1,16 +1,15 @@
 <div align='center'>
 
-  ## <img width='32px' src='https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxMjM1MTksIm5iZiI6MTc0NTEyMzIxOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDA0MjY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzMjI3NmM1Y2Q2ZDJkNGZkNWVkYjlmN2QyODY1MGRjNGIzMjBlM2QxOWE2Y2U5OTZkOGYxOWRlNmIyYzM1NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YkltcyQn1gZmcSIZG7l4yE053GK3cl9DFGgl4zFB-1M'/> I’m a brazilian full-stack student at the start of my carrer
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="26" height="26" />Técnico em Eletrônica na Etec CCS<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="26" height="26" /> Graduando como Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
+## <img width='32px' src='https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxMjM1MTksIm5iZiI6MTc0NTEyMzIxOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDA0MjY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzMjI3NmM1Y2Q2ZDJkNGZkNWVkYjlmN2QyODY1MGRjNGIzMjBlM2QxOWE2Y2U5OTZkOGYxOWRlNmIyYzM1NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YkltcyQn1gZmcSIZG7l4yE053GK3cl9DFGgl4zFB-1M'/> I’m a brazilian full-stack student at the start of my carrer
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Técnico em Eletrônica na Etec CCS<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> Graduando como Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
 
 </div><br>
 
 <div align='center'>
     <a href="https://www.linkedin.com/in/gabriel-carduus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href = "mailto:g.c.souza91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <!-- <a href='mailto:g.c.souza91@gmail.com'><img src='https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.c.souza91@gmail.com' /></a> -->
 </div><br>
 
 <div align='center'>
