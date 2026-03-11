@@ -6,7 +6,7 @@
 - 🧑‍💻 Graduating in **Systems Analysis and Development** at Fatec Zona Sul
 - 🌐 Front-end with **React, Angular & Responsiveness**
 - 🔙 Back-end with **Java + Spring Boot**
-- 🛢️ **PostgreSQL, MySQL** and the mighty **MongoDB**
+- 🛢️ **PostgreSQL, MySQL** and **MongoDB**
 - 📊 Automations with **Python, Power BI**, and **VBA**
 - 🔧 Building a **Gastronomic Map App** using **Ionic + Angular + Leaflet**
 
