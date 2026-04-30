@@ -5,10 +5,10 @@
 - ⚡ **Electronics** Technician at Etec CCS
 - 🧑‍💻 Graduating in **Systems Analysis and Development** at Fatec Zona Sul
 - 🌐 Front-end with **React, Angular & Responsiveness**
-- 🔙 Back-end with **Java + Spring Boot**
+- 🔙 Back-end with **Java + Python**
 - 🛢️ **PostgreSQL, MySQL** and **MongoDB**
 - 📊 Automations with **Python, Power BI**, and **VBA**
-- 🔧 Building a **Gastronomic Map App** using **Ionic + Angular + Leaflet**
+- 🔧 Building a **Gastronomic Map App** using **React Native + OpenStreetMap + LLMs**
 
 ## 💬 Let's connect!
 
