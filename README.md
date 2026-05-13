@@ -13,27 +13,27 @@
 ## 💬 Let's connect!
 
 <div align='center'>
-    <a href="https://www.linkedin.com/in/gabriel-carduus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    <a href = "mailto:g.c.souza91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/gabriel-carduus"><img height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"></a> 
+    <a href = "mailto:g.c.souza91@gmail.com"><img height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"></a>
 </div>
 
 ## 💻 My Skills
 
 <div align='center'>
-    <img alt='Gab-Angular' src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' />
-    <img alt='Gab-React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img alt='Gab-JS' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
-    <img alt='Gab-TS' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-    <img alt='Gab-NodeJS' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
-    <img alt='Gab-PY' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
-    <img alt='Gab-Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
-    <img alt='Gab-Postgres' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' />
-    <img alt='Gab-MySQL' src='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white' />
-    <img alt='Gab-Git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' />
-    <img alt='Gab-GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
-    <img alt='Gab-Arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' />
-    <img alt='Gab-C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' />
-    <img alt='Gab-C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' />
+    <img alt='Gab-NextJS' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg' />
+    <img alt='Gab-React' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg' />
+    <img alt='Gab-ReactNative' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Native.svg' />
+    <img alt='Gab-Angular' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg'/>
+    <img alt='Gab-TS' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg' />
+    <img alt='Gab-JS' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg' />
+    <img alt='Gab-Tailwind' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg' />
+    <img alt='Gab-PY' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg' />
+    <img alt='Gab-Java' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg' />
+    <img alt='Gab-Postgres' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg' />
+    <img alt='Gab-MySQL' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg' />
+    <img alt='Gab-Git' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg' />
+    <img alt='Gab-GitHub' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg' />
+    <img alt='Gab-Arduino' height="60" width="60" src='https://github.com/gui-bus/TechIcons/blob/main/Dark/Arduino.svg' />
 </div><br>
 
 ## 📊 GitHub Stats
